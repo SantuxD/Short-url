@@ -23,4 +23,5 @@ async function handelGetAnalytics(req, res) {
 }
 module.exports = {
     handelGeneratorNewShortURL,
+    handelGetAnalytics,
 }
